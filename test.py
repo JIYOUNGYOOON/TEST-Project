@@ -20,6 +20,6 @@ print("James Age:", James.age)
 print("James Addr:", James.addr)
 #수정
 #print("James Name:", James.SSN)
-
-
 print("수정중")
+
+print("수정중2")
