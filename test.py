@@ -19,9 +19,7 @@ James.addr = input("Addr Input: ")
 James.SSN = input("SSN Input: ")
 print("James Age:", James.age)
 print("James Addr:", James.addr)
-
-# 수정
-# print("James Name:", James.SSN)
+print("James Name:", James.SSN)
 
 
 print("수정중")
