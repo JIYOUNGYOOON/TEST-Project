@@ -25,3 +25,8 @@ print("James Name:", James.SSN)
 print("수정중")
 
 print("수정중3")
+#수정
+#print("James Name:", James.SSN)
+print("수정중")
+
+print("수정중2")
