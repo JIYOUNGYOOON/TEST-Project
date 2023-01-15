@@ -18,4 +18,8 @@ James.addr = input("Addr Input: ")
 James.SSN = input("SSN Input: ")
 print("James Age:", James.age)
 print("James Addr:", James.addr)
-print("James Name:", James.SSN)
+#수정
+#print("James Name:", James.SSN)
+
+
+print("수정중")
